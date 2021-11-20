@@ -1,0 +1,24 @@
+.logo{
+    background-image: url("../2RGR_logo.png");
+    display:inline-block;
+    width:70px;
+    height:70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+}
+.logo-text{
+    display: inline-block;
+}
+.COimg{
+    height: 200px;
+    width: 200px;
+}
+
+.post-thumb{
+    height: 150px;
+    width: 200px;
+}
+.text-gurkha{
+  color:#014424;
+}
